@@ -1,0 +1,14 @@
+bin
+include
+lib
+pyenv.cfg
+.idea
+share/
+boar/
+crow/
+monkey/
+__pycache__/
+uploads/
+.ipynb_checkpoints/
+*.npy
+*.h5
